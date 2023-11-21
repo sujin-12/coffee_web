@@ -1,0 +1,128 @@
+body{
+    margin: 0%;
+}
+.img{
+    z-index: -1;
+    position: absolute;
+}
+.img_1{
+    padding: 40px;
+    width: 150px;
+    margin-left: 20px;
+}
+.container{
+    float: right;
+    display: flex;
+    color: white;
+    margin-right: 50px;
+}
+.home{
+    padding: 30px;
+}
+
+.btn{
+    height: 30px;
+    width: 80px;
+    background-color: sandybrown;
+    border-style: none;
+    border-radius: 20px;
+    margin-top: 40px;
+    font-family:'Times New Roman', Times, serif ;
+}
+.heading{
+    color: white;
+    padding: 60px;
+    font-size: 20px;
+}
+.coffee{
+    margin-top: 20px;
+    font-size: 600%; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.btn_1,.btn_2{
+    height: 40px;
+    width: 120px;
+    background-color: sandybrown;
+    border-style: none;
+    border-radius: 25px;
+    margin-top: 10px;
+    font-family:'Times New Roman', Times, serif ;
+}
+.discover{
+    padding: 60px;
+    display: flex;
+}
+.img_2{
+    flex: 50px;
+    padding: 30px;
+}
+.para,.para_2,.para_4,.para_6{
+    font-size: 60px;
+    color: rgb(92, 55, 12);
+}
+.para_1,.para_3,.para_5{
+    font-size: larger;
+    margin-top: 1px;
+    color: darkgray;
+}
+.img_3,.img_5{
+    z-index: -1;
+    position: absolute;
+    margin-top: 1px;
+}
+.para_2{
+   text-align: center;
+   margin-top: 150px;
+}
+.row{
+    margin-left: 50px;
+    display: flex;
+}
+.img_4{
+    margin: 15px ;
+    height: 380px;
+    background-color: rgb(251, 230, 245);
+}
+.name{
+    color: rgb(92, 55, 12);
+    font-size: 20px;
+    text-align: center;
+}
+.btn_3{
+    height: 40px;
+    width: 120px;
+    background-color: sandybrown;
+    border-style: none;
+    border-radius: 25px;
+    margin-top: 10px;
+    font-family:'Times New Roman', Times, serif ; 
+}
+.img_5{
+    margin-left: 907px;
+}
+.para_4{
+    margin-top: 100px;
+}
+.row_1{
+    display: flex;
+    margin-left: 50px;
+}
+.img_6,.img_7,.img_8,.img_9{
+    height: 200px;
+    width: 280px;
+    padding-top: 40px;
+    background-color: rgb(251, 230, 245);
+}
+.img_7,.img_8,.img_9{
+   
+    margin-left: 35px;
+    
+}
+.btn_4{
+    height: 40px;
+    width: 120px;
+    background-color: sandybrown;
+    border-style: none;
+    border-radius: 25px;
+    font-family:'Times New Roman', Times, serif ; 
+}
